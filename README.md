@@ -52,3 +52,11 @@
 
 </a>
 </div>
+
+---
+
+# 📬 Connect with me  
+
+- 📧 **Email**: [eslam.fadl2338@gmail.com](mailto:eslam.fadl2338@gmail.com)  
+- 💬 **WhatsApp**: [Chat with me](https://wa.me/+0201150198054)  
+- 💼 **LinkedIn**: [Eslam Fadl](https://www.linkedin.com/in/eslam-fadl-4688742a9/)  
