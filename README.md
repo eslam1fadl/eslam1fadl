@@ -48,10 +48,6 @@
 
 ---
 
-
-
----
-
 # 📬 Contact Me  
 
 - 📧 **Email**: [eslam.fadl2338@gmail.com](mailto:eslam.fadl2338@gmail.com)  
