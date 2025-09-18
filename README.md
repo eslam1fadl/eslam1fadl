@@ -48,15 +48,6 @@
 
 ---
 
-<div align="center">
-  <!-- GitHub overall stats (dynamic) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=eslam1fadl&show_icons=true&theme=dark" width="48%"/>
-  <!-- Top languages by bytes (compact) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam1fadl&layout=compact&theme=dark" width="48%"/>
-</div>
-
-<!-- Optional: Streak or contributions -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eslam1fadl&theme=dark" width="100%"/>
 
 
 ---
