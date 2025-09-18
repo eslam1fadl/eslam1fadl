@@ -33,7 +33,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=postman&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 
 ### 🛠 Tools & Platforms  
@@ -41,7 +40,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
