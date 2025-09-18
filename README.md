@@ -48,15 +48,16 @@
 
 ---
 
-<div align="center" >
-<a href="https://github.com/eslam1fadl">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
+<div align="center">
+  <!-- GitHub overall stats (dynamic) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=eslam1fadl&show_icons=true&theme=dark" width="48%"/>
+  <!-- Top languages by bytes (compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam1fadl&layout=compact&theme=dark" width="48%"/>
 </div>
+
+<!-- Optional: Streak or contributions -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eslam1fadl&theme=dark" width="100%"/>
+
 
 ---
 
