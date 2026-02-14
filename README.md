@@ -4,7 +4,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Eslam Fadl , Frontend Developer 💻 <br>
   <br>
-  <div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div align="center" style="display:flex; justify-content:center; gap:50px;">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
   <img src="https://h.top4top.io/p_3697g0czl1.jpg" width="400" />
 </div>
