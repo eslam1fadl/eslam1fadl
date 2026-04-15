@@ -34,6 +34,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=flat&logo=zustand&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-20232a?style=flat&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend  
@@ -56,6 +57,6 @@
 # 📬 Contact Me  
 
 - 📧 **Email**: [eslam.fadl2338@gmail.com](mailto:eslam.fadl2338@gmail.com)  
-- 💬 **WhatsApp**: [Chat with me](https://wa.me/+0201150198054)  
+- 💬 **WhatsApp**: [Chat with me](https://wa.me/+0201559822025)  
 - 💼 **LinkedIn**: [Eslam Fadl](https://www.linkedin.com/in/eslam-fadl-4688742a9/)  
 
