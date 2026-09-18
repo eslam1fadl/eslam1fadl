@@ -81,11 +81,4 @@ A travel website built with Next.js, focusing on responsive UI, modern design, a
 
 ---
 
-### 📊 GitHub Stats
-
-![Eslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslam1fadl&show_icons=true&theme=tokyonight)
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=eslam1fadl&theme=tokyonight)
 
