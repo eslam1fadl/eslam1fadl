@@ -56,6 +56,18 @@
 
 # 🚀 Featured Projects
 
+🛒 Bs6a – E-Commerce Platform
+
+A full-stack e-commerce platform built with React.js, Tailwind CSS, Express.js, TypeScript, PostgreSQL, and REST APIs.
+
+🛍️ Customer, Vendor, and Admin roles
+🔐 Authentication and role-based access control
+💳 Online payment integration
+📦 Product, cart, order, and vendor management
+🌐 Arabic RTL interface with responsive design
+
+🔗 Live Demo: https://bs6a.com/
+
 ### 🛒 E-Commerce Application
 A modern e-commerce application built with React.js, Context API, Tailwind CSS, REST APIs, and authentication.
 
